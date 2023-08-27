@@ -1,4 +1,4 @@
-# SyncSphere - Gmeet Clone
+# Gmeet Clone
 
 Developed the clone of popular video-conferencing app by Google - GMeet
 
